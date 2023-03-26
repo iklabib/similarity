@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "web"
+		},
+		{
+			"path": "server"
+		},
+		{
+			"path": "extractor"
+		},
+		{
+			"path": "document"
+		}
+	],
+	"settings": {
+		"deno.enable": true,
+		"deno.unstable": true,
+		"deno.lint": false
+	}
+}
